@@ -14,7 +14,7 @@ function App() {
       <footer className="border-t border-white/10 bg-black/90 py-8 text-center text-sm text-white/60">
         <div className="mx-auto max-w-6xl px-6">
           <p>
-            © {new Date().getFullYear()} MechMind Agent. All rights reserved.
+            © {new Date().getFullYear()} NovaOps Agent. Built for enterprise.
           </p>
         </div>
       </footer>
